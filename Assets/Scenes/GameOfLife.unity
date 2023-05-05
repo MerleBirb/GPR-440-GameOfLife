@@ -31032,7 +31032,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   cellPrefab: {fileID: -1305940306841825420, guid: 32d45ca81c56a9847be4cbec08dc5e6f, type: 3}
-  timer: 0.025
+  timer: 0.04
+  startSimulated: 1
 --- !u!1 &1232968706
 GameObject:
   m_ObjectHideFlags: 0

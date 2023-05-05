@@ -72,11 +72,6 @@ public class GameManager : MonoBehaviour
         {
             m_simulationEnabled = !m_simulationEnabled;
         }
-
-        if (Input.GetKeyUp(KeyCode.B)) // start simulation
-        {
-
-        }
     }
 
     private void DrawCellGrid()
